@@ -1,0 +1,9 @@
+Origin: iOS ' repo
+Label: iOS ' repo
+Suite: stable
+Version: 1.1
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: 
+Support: https://qin2.github.io/*

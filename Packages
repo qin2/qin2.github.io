@@ -1,0 +1,52 @@
+Package: io.github.qin2.perfect
+Name: 4D MASK for 10.x
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Priority: standard
+Section: Themes (SpringBoard)
+Filename: /Dw/File/io.github.qin2.Perfect_1.1_iphoneos-arm.deb
+MD5sum: 7cfed16e2e0505aade0f524deb5448fc
+Description: Support for 6/6s & PLUs 10.x devices.
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
+Depiction: https://qin2.github.io/Preview/Theme/4D
+
+Package: io.github.qin2.lotus
+Name: LOTUS for 10.x
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Priority: standard
+Section: Themes (SpringBoard)
+Filename: /Dw/File/io.github.qin2.LOTUS_1.1_iphoneos-arm.deb
+MD5sum: 140981958f2c5a13d38486ef903712ad
+Description: Support for 6/6s & PLUs 10.x devices.
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
+
+Package: io.github.qin2.statusbar
+Name: Statusbar for 10.x
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Priority: standard
+Section: Themes (SpringBoard)
+Filename: /Dw/File/io.github.qin2.Statusbar_1.1_iphoneos-arm.deb
+MD5sum: 5e464bb1661f42219c3972be17cac366
+Description: Support for 6/6s & PLUs 10.x devices.
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
+
+Package: io.github.qin2.telephone
+Name: Telephone PIANO Sounds for 10.x
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Priority: standard
+Section: Themes (SpringBoard)
+Filename: /Dw/File/io.github.qin2.Telephone_1.1_iphoneos-arm.deb
+MD5sum: b2a505e3fa2b2c04a8ecb154cfad6866
+Description: Support for 6/6s & PLUs 10.x devices.
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
