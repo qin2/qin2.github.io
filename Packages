@@ -50,3 +50,15 @@ MD5sum: b2a505e3fa2b2c04a8ecb154cfad6866
 Description: Support for 6/6s & PLUs 10.x devices.
 Maintainer: iRwin3g <q.info@qq.com>
 Author: iRwin3g <q.info@qq.com>
+
+Package: io.github.qin2.fonts
+Name: (推荐) 中文字体 For Anemone
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: 本字体利用 Anemone 全局应用不用担心会覆盖自带字体或白苹果，这个字体和自带的差不多类似 iOS8 时期字体。
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
+Section: Themes (SpringBoard)
+MD5sum: 37ac58c69fba223786cc60be6e496c12
+Filename: /Dw/File/io.github.qin2.fonts_1.1_iphoneos-arm.deb
