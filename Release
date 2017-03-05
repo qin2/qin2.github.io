@@ -1,9 +1,9 @@
-Origin: iOS ' repo
-Label: iOS ' repo
+Origin: © 1982 'S Repo
+Label: © 1982 'S Repo
 Suite: stable
-Version: 1.1
+Version: 1.2
 Codename: stable
-Architectures: iphoneos-arm
+Architectures: darwin-arm iphoneos-arm
 Components: main
 Description: 
 Support: https://qin2.github.io/*
