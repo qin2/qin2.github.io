@@ -62,3 +62,16 @@ Author: iRwin3g <q.info@qq.com>
 Section: Themes (SpringBoard)
 MD5sum: 37ac58c69fba223786cc60be6e496c12
 Filename: /Dw/File/io.github.qin2.fonts_1.1_iphoneos-arm.deb
+
+Package: io.github.qin2.uibar
+Name: UIBar for 10.x
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: Support for 6/6s & PLUs 10.x devices.
+Maintainer: iRwin3g <q.info@qq.com>
+Author: iRwin3g <q.info@qq.com>
+Section: Themes (SpringBoard)
+Depiction: https://qin2.github.io/Preview/Theme/UIBar/
+MD5sum: 369df45e6c834148a8ce77b07cc4a498
+Filename: /Dw/File/io.github.qin2.uibar_1.1_iphoneos-arm.deb
